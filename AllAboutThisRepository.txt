@@ -1,4 +1,0 @@
-This is a folder for various linked list problems code.
-All are implemented in C.
-Questions are of Basic , Intermediate level.
-Thank You
